@@ -101,7 +101,7 @@ header {
 }
 header div{
    width: 100%;
-   height: 80px;
+   height: 75px;
    flex-flow: flex;
    justify-content: space-between;
    align-items: center;
@@ -122,22 +122,22 @@ header div{
 
 .logo {
     display: flex;
-    align-items: center;
-    gap: 20px;
+    align-items: upright;
+    gap: 15px;
     text-decoration: none;
 }
 
 .logo-placeholder {
-    width: 48px;
-    height: 48px;
+    width: 35px;
+    height: 35px;
     background: var(--green);
     color: var(--white);
     display: flex;
-    align-items: center;
+    align-items: upright;
     justify-content: center;
     border-radius: 50%;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .logo-text {

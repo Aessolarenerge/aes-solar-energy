@@ -342,7 +342,7 @@ header div{
 }
 
 .project-image {
-    height: 220px;
+    height: 38px;
     background: linear-gradient(135deg, #d7f0df, #dddddd);
     display: flex;
     align-items: center;
@@ -384,7 +384,7 @@ header div{
 }
 
 .product-image {
-    height: 220px;
+    height: 38px;
     background: #eeeeee;
     display: flex;
     align-items: center;

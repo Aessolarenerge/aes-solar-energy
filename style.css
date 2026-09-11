@@ -127,6 +127,7 @@ header .container {
     font-weight: 500;
     white-space: nowrap;
   	Gap: 10px;
+   Width-left: 10px;
 }
 
 .logo-text span {

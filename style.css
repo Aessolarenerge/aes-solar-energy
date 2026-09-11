@@ -109,11 +109,9 @@ header .container {
 
 .logo {
     display: flex;
-   flex-direction: column;
     align-items: center;
-   justify-content: center;
     text-decoration: none;
-   gap: 20px;
+    gap: 10px;
 }
 
 .logo img {
@@ -122,12 +120,18 @@ header .container {
     object-fit: contain;
     display: block;
 }
-logo span{
-   font-size: 13px;
-   font-weight: 600;
-   lolor: var(--dark);
-   white-space: nowrap;
+
+.logo-text {
+    color: var(--dark);
+    font-size: 18px;
+    font-weight: 500;
+    white-space: nowrap;
 }
+
+.logo-text span {
+    color: var(--green);
+}
+
 .nav-links {
     display: flex;
     align-items: center;

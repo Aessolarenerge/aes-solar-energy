@@ -136,7 +136,7 @@ header .container {
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 20px;
+    gap: 05px;
 }
 
 .nav-links a {

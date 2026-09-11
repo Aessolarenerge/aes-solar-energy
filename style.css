@@ -122,7 +122,7 @@ header div{
 
 .logo {
     display: flex;
-    align-items: upright;
+    align-items: center;
     gap: 15px;
     text-decoration: none;
 }
@@ -133,7 +133,7 @@ header div{
     background: var(--green);
     color: var(--white);
     display: flex;
-    align-items: upright;
+    align-items: center;
     justify-content: center;
     border-radius: 50%;
     font-weight: bold;

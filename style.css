@@ -110,16 +110,16 @@ header .container {
 }
 
 .logo img {
-    width: 90px;
+    width: 100px;
     height: auto;
     object-fit: contain;
     display: block;
 }
 
 .logo-text {
-    color: var(--dark);
-    font-size: 18px;
-    font-weight: 500;
+    color: var(--blue);
+    font-size: 8px;
+    font-weight: 450;
     white-space: nowrap;
   	Gap: 10px;
    Width-left: 10px;

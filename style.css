@@ -341,6 +341,9 @@ header .container {
     margin-bottom: 8px;
 }
 
+.project-image {
+    box-sizing: 20px;
+}
 /* =========================
    SHOP
 ========================= */

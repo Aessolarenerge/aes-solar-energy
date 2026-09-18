@@ -118,11 +118,11 @@ header .container {
 
 .logo-text {
     color: var(--blue);
-    font-size: 8px;
+    font-size: 10px;
     font-weight: 450;
     white-space: nowrap;
-  	Gap: 10px;
-   Width-left: 10px;
+  	Gap: 8px;
+   Width-left: 8px;
 }
 
 .logo-text span {

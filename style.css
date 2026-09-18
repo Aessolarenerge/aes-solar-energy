@@ -96,7 +96,7 @@ header {
 }
 
 header .container {
-    min-height: 75px;
+    min-height: 95px;
     display: flex;
     align-items: center;
     justify-content: space-between;

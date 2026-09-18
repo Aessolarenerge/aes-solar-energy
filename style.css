@@ -137,9 +137,9 @@ header .container {
 }
 
 .nav-links a {
-    color: var(--dark);
+    color: var(--blue);
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 550;
     transition: 0.3s;
 }
 
